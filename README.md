@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://gpvc.arturio.dev/naagaraa" alt="profile views">
 </p>
 
-![Nagara Github](https://github-readme-stats.vercel.app/api?username=naagaraa&show_icons=false&hide_border=true)
+![Pictured - a man at a computer disguised as an anonymous hacker wearing a Guy Fawkes mask.](https://images.unsplash.com/photo-1562813733-b31f71025d54?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=749&q=80)
 
 ## Another activity Documentation
 <p align="left">
