@@ -17,6 +17,8 @@ Here are some ideas to get you started:
     <img src="https://gpvc.arturio.dev/naagaraa" alt="profile views">
 </p>
 
+![Nagara Github](https://github-readme-stats.vercel.app/api?username=naagaraa&show_icons=true&hide_border=true)
+
 ## Another activity Documentation
 <p align="left">
   <a href="http://journey.nagara.my.id/">Blog</a> •
@@ -34,6 +36,7 @@ try writing something :
 -  I’m currently Used Frontend tech stack Boostrap, CSS 
 
 <br>
+
 ---
 
 <br>
