@@ -1,6 +1,3 @@
-### Hi there, ...
-<br>
-
 <!--
 **naagaraa/naagaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://gpvc.arturio.dev/naagaraa" alt="profile views">
 </p>
 
-## Hi another activity Documentation
+## Another activity Documentation
 <p align="left">
   <a href="http://journey.nagara.my.id/">Blog</a> •
   <a href="https://www.instagram.com/naagaraa/">Instagram</a> •
