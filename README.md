@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://gpvc.arturio.dev/naagaraa" alt="profile views">
 </p>
 
-![Nagara Github](https://github-readme-stats.vercel.app/api?username=naagaraa&show_icons=true&hide_border=true)
+![Nagara Github](https://github-readme-stats.vercel.app/api?username=naagaraa&show_icons=false&hide_border=true)
 
 ## Another activity Documentation
 <p align="left">
