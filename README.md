@@ -17,14 +17,6 @@ Here are some ideas to get you started:
     <img src="https://gpvc.arturio.dev/naagaraa" alt="profile views">
 </p>
 
-
-## Another activity Documentation
-<p align="left">
-  <a href="http://journey.nagara.my.id/">Blog</a> •
-  <a href="https://www.instagram.com/naagaraa/">Instagram</a> •
-  <a href="https://www.youtube.com/channel/UCYsZhw6Mlk23Q-nUPP9t1YA">Youtube</a> •
-</p>
-
 ---
 <br><br>
 try writing something :
@@ -40,7 +32,7 @@ try writing something :
 
 <br>
 
-## mau donasi ? bisa banget
+## donasi ?
 <p align=left>
     <a href="https://saweria.co/naagaraa">Traktir Baso atau nasi goreng aja disini</a> 
 </p>
