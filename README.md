@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 <p align="left">
     <img src="https://gpvc.arturio.dev/naagaraa" alt="profile views">
-</p>
-<p align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=naagaraa&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200%22">
 </p>
 
