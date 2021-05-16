@@ -30,4 +30,4 @@ try writing something :
     <a href="https://saweria.co/naagaraa">Traktir Baso atau nasi goreng aja disini</a> 
 </p>
 
-[![GitHub commit](https://github-readme-stats.vercel.app/api?username=naagaraa&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200%22)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=naagaraa&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200%22"></p>
