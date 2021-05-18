@@ -25,7 +25,7 @@ try writing something :
 -  I’m currently learning Framewok Laravel, Codeigniter, Flask 
 -  I’m currently Used Frontend tech stack Boostrap, CSS 
 
-## traktir gue lah bro ...
+## yang mau suppot bisa ...
 <p align=left>
     <a href="https://saweria.co/naagaraa">Traktir Baso atau nasi goreng aja disini</a> 
 </p>
