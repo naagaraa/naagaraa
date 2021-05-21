@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 try writing something :
 
--  I’m currently learning Language PHP and PYTHON, 
+-  I’m currently used Language PHP and learning PYTHON, 
 -  I’m currently learning Framewok Laravel, Codeigniter, Flask 
 -  I’m currently Used Frontend tech stack Boostrap, CSS 
 
