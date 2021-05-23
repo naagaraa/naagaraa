@@ -17,7 +17,10 @@ Here are some ideas to get you started:
     <img src="https://gpvc.arturio.dev/naagaraa" alt="profile views">
 </p>
 
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naagaraa&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
+-->
 
 try writing something :
 
