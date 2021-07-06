@@ -28,6 +28,10 @@ try writing something :
 -  I’m currently learning Framewok Laravel, Codeigniter, Flask 
 -  I’m currently Used Frontend tech stack Boostrap, CSS 
 
+private and public :
+- usually my private repo , I'm make secret project and not for public
+- usually my public repo i make the project open for publication because it needs to be shared to use and develop again and also for reusability 
+
 ## traktir me ...
 <p align=left>
     <a href="https://saweria.co/naagaraa">Traktir Baso atau nasi goreng aja disini</a> 
