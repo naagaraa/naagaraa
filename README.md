@@ -29,7 +29,7 @@ try writing something :
 -  I’m currently Used Frontend tech stack Boostrap, CSS 
 
 private and public :
-- usually my private repo , I'm make secret project and not for public
+- usually my private repo , I'm make secret project and not for public on already release
 - usually my public repo i make the project open for publication because it needs to be shared to use and develop again and also for reusability 
 
 ## traktir me ...
