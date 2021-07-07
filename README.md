@@ -27,6 +27,7 @@ try writing something :
 -  I’m currently used Language PHP and learning PYTHON and Kotlin or Flutter for next FUTURE to mobile apps, 
 -  I’m currently learning Framewok Laravel, Codeigniter, Flask 
 -  I’m currently Used Frontend tech stack Boostrap, CSS 
+-  I’m currently learning english for improve my skill
 
 private and public :
 - usually my private repo , I'm make secret project and not for public on already release
