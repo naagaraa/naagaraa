@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naagaraa&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 -->
+"if make software it's easy, instant and full magic, try build by your self don't look someone for making"
 
 try writing something :
 
