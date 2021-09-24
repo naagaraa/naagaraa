@@ -26,16 +26,18 @@ Here are some ideas to get you started:
 "if make software it's easy, instant and full magic, try build by your self don't look someone for making"
 -->
 
+<!--
 try writing something :
 
 -  I’m currently used Language PHP and learning PYTHON and Kotlin or Flutter for next FUTURE to mobile apps, 
 -  I’m currently learning Framewok Laravel, Codeigniter, Flask 
 -  I’m currently Used Frontend tech stack Boostrap, CSS 
 -  I’m currently learning english for improve my skill
+-->
 
-## traktir me ...
+## for support me klik link at bottom ( INA ONLY )
 <p align=left>
-    <a href="https://saweria.co/naagaraa">klik here</a> 
+    <a href="https://saweria.co/naagaraa">saweria</a> 
 </p>
 
 
