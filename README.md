@@ -40,7 +40,7 @@ try writing something :
     <a href="https://saweria.co/naagaraa">saweria.co</a> 
 </p>
 
-<p align=right>
+<p align=left>
     <a href="https://trakteer.id/naagaraa/tip">trakteer.id</a>     
 </p>
 
