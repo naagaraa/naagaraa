@@ -37,7 +37,8 @@ try writing something :
 
 ## for support me klik link at bottom ( INA only )
 <p align=left>
-    <a href="https://saweria.co/naagaraa">saweria</a> 
+    <a href="https://saweria.co/naagaraa">saweria.co</a> 
+    <a href="https://trakteer.id/naagaraa/tip">trakteer.id</a> 
 </p>
 
 
