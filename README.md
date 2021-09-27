@@ -35,7 +35,7 @@ try writing something :
 -  I’m currently learning english for improve my skill
 -->
 
-## for support me klik link at bottom ( INA only )
+## for support me klik link at bottom 
 <p align=left>
     <a href="https://saweria.co/naagaraa">saweria.co</a> 
 </p>
