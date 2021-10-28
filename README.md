@@ -35,7 +35,10 @@ try writing something :
 -  I’m currently learning english for improve my skill
 -->
 
-## for support me klik link at bottom 
+## what your main language ?
+shit about that, my basic language and main is a PHP for web development, but i don't care about langauge there are just suck as tools for make something, make magic to help problem solve with technology, i learn other language what i interest to them, black hat python, bash sheel, javascript, web security with kali linux, interest MITM method, tensor flow, kotlin, and other suck technology hahaha, i only bring my basic to learn another language, fundamental, Object Oriented, and Logic
+
+## how to support me ? 
 <p align=left>
     <a href="https://saweria.co/naagaraa">saweria.co</a> 
 </p>
@@ -43,5 +46,15 @@ try writing something :
 <p align=left>
     <a href="https://trakteer.id/naagaraa/tip">trakteer.id</a>     
 </p>
+
+## wanna find me ?
+<p align=left>
+    <a href="https://saweria.co/naagaraa">youtube</a> 
+</p>
+
+<p align=left>
+    <a href="https://www.linkedin.com/in/nagara/">linkedln</a> ⚠️ private
+</p>
+
 
 
