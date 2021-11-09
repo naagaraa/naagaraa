@@ -36,7 +36,7 @@ try writing something :
 -->
 
 ## what your main language ?
-shit about that, my basic language and main is a PHP for web development, but i don't care about langauge there are just suck as tools for make something, make magic to help problem solve with technology, i learn other language what i interest to them, black hat python, bash sheLl, javascript, web security with kali linux, interest MITM method, tensor flow, kotlin, and other suck technology hahaha, i only bring my basic to learn another language, fundamental, Object Oriented, and Logic. i just learn what i want.
+shit about that, my basic language is a PHP for web development, but i don't care about langauge there are just suck as tools for make something, make magic to help problem solve with technology, i learn other language what i interest to them, black hat python, bash sheLl, javascript, web security with kali linux, interest MITM method, tensor flow, kotlin, and other suck technology hahaha, i only bring my basic to learn another language, fundamental, Object Oriented, and Logic. i just learn what i want.
 
 ## how to support me ? 
 <p align=left>
