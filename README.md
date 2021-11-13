@@ -40,20 +40,20 @@ shit about that, my basic language is a PHP for web development, but i don't car
 
 ## how to support me ? 
 <p align=left>
-    here <a href="https://saweria.co/naagaraa">saweria.co</a> for give me donation
+    click here <a href="https://saweria.co/naagaraa">saweria.co</a> for give me donation
 </p>
 
 <p align=left>
-    here <a href="https://trakteer.id/naagaraa/tip">trakteer.id</a> for give me donation     
+    click here <a href="https://trakteer.id/naagaraa/tip">trakteer.id</a> for give me donation     
 </p>
 
 ## wanna find me ?
 <p align=left>
-   here <a href="https://www.youtube.com/channel/UCYsZhw6Mlk23Q-nUPP9t1YA">youtube</a> for more detail
+   click here <a href="https://www.youtube.com/channel/UCYsZhw6Mlk23Q-nUPP9t1YA">youtube</a> for more detail
 </p>
 
 <p align=left>
-    here <a href="https://www.linkedin.com/in/nagara/">linkedln</a> ⚠️ private. you need have account for look at me
+   click here <a href="https://www.linkedin.com/in/nagara/">linkedln</a> ⚠️ private. you need have account for look at me
 </p>
 
 ## indonesia language⚠️
