@@ -56,5 +56,6 @@ shit about that, my basic language is a PHP for web development, but i don't car
     here <a href="https://www.linkedin.com/in/nagara/">linkedln</a> ⚠️ private. you need have account for look at me
 </p>
 
-
+⚠️indonesia language⚠️
+"please banget ini mah klo kenalan di dunia maya jangan pake HODI, klo cosplay atau main game gpp dah hahaha"
 
