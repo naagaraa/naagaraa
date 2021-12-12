@@ -56,6 +56,6 @@ shit about that, my basic language is a PHP for web development, but i don't car
    click here <a href="https://www.linkedin.com/in/nagara/">linkedln</a> ⚠️ private. you need have account for look at me
 </p>
 
-## coution ⚠️
+## caution ⚠️
 "hmm let be my friends"
 
