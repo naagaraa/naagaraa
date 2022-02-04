@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
+<!-- <p align="left">
     <img src="https://gpvc.arturio.dev/naagaraa" alt="profile views">
-</p>
+</p> -->
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naagaraa&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
@@ -28,32 +28,35 @@ Here are some ideas to get you started:
 
 <!--
 try writing something :
-
 -  I’m currently used Language PHP and learning PYTHON and Kotlin or Flutter for next FUTURE to mobile apps, 
 -  I’m currently learning Framewok Laravel, Codeigniter, Flask 
 -  I’m currently Used Frontend tech stack Boostrap, CSS 
 -  I’m currently learning english for improve my skill
 -->
 
-<!-- ## what your main language ?
-shit about that, my basic language is a PHP for web development, but i don't care about langauge there are just suck as tools for make something, make magic to help problem solve with technology, i learn other language what i interest to them, black hat python, bash shell, javascript, web security with kali linux, interest MITM method, tensor flow, kotlin, and other suck technology hahaha, i only bring my basic to learn another language, fundamental, Object Oriented, and Logic. i just learn what i want. -->
+ ## about me ?
+basic langauge is PHP but i'm also learn another langauge like javascript, ruby, python and bash. basic knowledged is important in every tech like used a framework like laravel, rubu on rails, reactjs. if not strong it's really hard for learn new something. and make good portofolio open source can see public it's it was overwhelming, Without financial support. hahaha. and no magic in programing
 
-## how to support me ? 
+<!-- ## how to support me ? 
 <p align=left>
     click here <a href="https://saweria.co/naagaraa">saweria.co</a> for give me donation
 </p>
-
 <p align=left>
     click here <a href="https://trakteer.id/naagaraa/tip">trakteer.id</a> for give me donation     
-</p>
+</p> -->
 
 ## wanna find me ?
 <p align=left>
-   click here <a href="https://www.youtube.com/channel/UCYsZhw6Mlk23Q-nUPP9t1YA">youtube</a> for more detail
+   <a href="https://www.youtube.com/channel/UCYsZhw6Mlk23Q-nUPP9t1YA">youtube</a>
 </p>
-
 <p align=left>
-   click here <a href="https://www.linkedin.com/in/nagara/">linkedln</a> ⚠️ private. you need have account for look at me
+   <a href="https://www.linkedin.com/in/nagara/">linkedln</a>
+</p>
+<p align=left>
+    <a href="https://saweria.co/naagaraa">saweria.co</a>
+</p>
+<p align=left>
+    <a href="https://trakteer.id/naagaraa/tip">trakteer.id</a>
 </p>
 
 ## caution ⚠️
