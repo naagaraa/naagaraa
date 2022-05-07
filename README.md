@@ -28,37 +28,25 @@ Here are some ideas to get you started:
 
 <!--
 try writing something :
--  I’m currently used Language PHP and learning PYTHON and Kotlin or Flutter for next FUTURE to mobile apps, 
--  I’m currently learning Framewok Laravel, Codeigniter, Flask 
--  I’m currently Used Frontend tech stack Boostrap, CSS 
+-  I’m currently used Language PHP and learning PYTHON and Kotlin or Flutter for next FUTURE to mobile apps,
+-  I’m currently learning Framewok Laravel, Codeigniter, Flask
+-  I’m currently Used Frontend tech stack Boostrap, CSS
 -  I’m currently learning english for improve my skill
 -->
 
- ## about me ?
-basic langauge is PHP but i'm also learn another langauge like javascript, ruby, python and bash. basic knowledged is important in every tech like used a framework like laravel, rubu on rails, reactjs. if not strong it's really hard for learn new something. and make good portofolio open source can see public it's it was overwhelming, Without financial support. hahaha. and no magic in programing
+## Introduction
 
-<!-- ## how to support me ? 
-<p align=left>
-    click here <a href="https://saweria.co/naagaraa">saweria.co</a> for give me donation
-</p>
-<p align=left>
-    click here <a href="https://trakteer.id/naagaraa/tip">trakteer.id</a> for give me donation     
-</p> -->
+Hi everyone, you can call me Yuki or nagara I from indonesia, my background come from PHP but in univercity I learn more than one language programming. JAVA, BASH, C++, BASIC, PYTHON, JAVASCRIPT. but i chose php my journey. currenly I learn Javascript and NodeJS for better improve my skill and i interest in software engginner. I learn in everyday. and here my personal website [naagaraa.co.id](https://naagaraa.netlify.app/). sorry about my english to many type
 
-## wanna find me ?
-<p align=left>
-   <a href="https://www.youtube.com/channel/UCYsZhw6Mlk23Q-nUPP9t1YA">youtube</a>
-</p>
-<p align=left>
-   <a href="https://www.linkedin.com/in/nagara/">linkedln</a>
-</p>
-<p align=left>
-    <a href="https://saweria.co/naagaraa">saweria.co</a>
-</p>
-<p align=left>
-    <a href="https://trakteer.id/naagaraa/tip">trakteer.id</a>
-</p>
+## Boiler Template
+
+ouh for fast navigate link I put this bio.
+
+- [vue 2 js setup directory](https://github.com/naagaraa/vuejs-boiler-template)
+- [react js setup directory](https://github.com/naagaraa/react-boiler-template)
+- [hackathon fullstack node js](https://github.com/sahat/hackathon-starter)
+- [laravel starter pack]()
 
 ## caution ⚠️
-"hmm let be my friends"
 
+"nothing"
