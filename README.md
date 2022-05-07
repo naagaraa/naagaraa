@@ -40,7 +40,7 @@ Hi everyone, you can call me Yuki or nagara I from indonesia, my background come
 
 ## Boiler Template
 
-ouh for fast navigate link I put this bio.
+ouh for fast navigate link I put this bio. i'm create the boiler started pack for personal use
 
 - [vue 2 js setup directory](https://github.com/naagaraa/vuejs-boiler-template)
 - [react js setup directory](https://github.com/naagaraa/react-boiler-template)
