@@ -44,6 +44,7 @@ ouh for fast navigate link I put this bio.
 
 - [vue 2 js setup directory](https://github.com/naagaraa/vuejs-boiler-template)
 - [react js setup directory](https://github.com/naagaraa/react-boiler-template)
+- [express js setup directory](https://github.com/naagaraa/expressjs-boiler-template)
 - [hackathon fullstack node js](https://github.com/sahat/hackathon-starter)
 - [laravel starter pack]()
 
