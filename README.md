@@ -36,7 +36,7 @@ try writing something :
 
 ## Introduction
 
-Hi everyone, you can call me Yuki or nagara I from indonesia, my background come from PHP but in univercity I learn more than one programming language. JAVA, BASH, C++, BASIC, PYTHON, JAVASCRIPT and another basic skill. but i choose php my journey. currenly I learn Javascript and NodeJS for better improve my skill and i interest in software engginner. I learn in everyday. and here my personal website [naagaraa.co.id](https://naagaraa.netlify.app/). sorry about my english to many type
+Hi everyone, you can call me Yuki or nagara I from indonesia, my background come from PHP but in univercity I learn more than one programming language. JAVA, BASH, C++, BASIC, PYTHON, JAVASCRIPT and another basic skill. but i choose php my journey. currenly I learn Javascript and NodeJS for better improve my skill and i interest in software engginner. I learn in everyday. and here my personal website [naagaraa.co.id](https://naagaraa.netlify.app/). sorry about my english to many typo
 
 ## Boiler Template
 
