@@ -36,10 +36,11 @@ try writing something :
 
 ## Introduction
 
-Hi everyone, you can call me Yuki or nagara I from indonesia, my background come from PHP but in univercity I learn more than one programming language. JAVA, BASH, C++, BASIC, PYTHON, JAVASCRIPT and another basic skill. but i choose php my journey. currenly I learn Javascript and NodeJS for better improve my skill and i interest in software engginner. I learn in everyday. and here my personal website [naagaraa.co.id](http://naagaraa.herokuapp.com/). sorry about my english to many typo
+Hi everyone, you can call me Yuki or nagara I programmer / web developper from indonesia, and here my personal website [naagaraa.co.id](http://naagaraa.herokuapp.com/). 
 
 ## Boiler Template
 
+:warning:
 ouh for fast navigate link I put this bio. i'm create the boiler started pack for personal use
 
 - [vue 2 js setup directory](https://github.com/naagaraa/vuejs-boiler-template)
@@ -49,6 +50,3 @@ ouh for fast navigate link I put this bio. i'm create the boiler started pack fo
 - [flask-api-starter-project](https://github.com/naagaraa/RestAPI-Python-MVC-project)
 - [laravel starter pack]()
 
-## caution ⚠️
-
-"nothing"
