@@ -36,7 +36,7 @@ try writing something :
 
 ## Introduction
 
-Hi everyone, you can call me Yuki or nagara I stand alone programmer / web developper from indonesia, and here my personal website [naagaraa.co.id](http://naagaraa.herokuapp.com/). "follow lah jangan diliatin aja"
+Hi everyone, you can call me Yuki or nagara I stand alone programmer / web developper from indonesia, and here my personal website [naagaraa.co.id](http://naagaraa.herokuapp.com/). "follow lah jangan diliatin aja, follow lah, gratis ini, subs YT gue juga"
 
 ## Boiler Template
 
