@@ -36,7 +36,7 @@ try writing something :
 
 ## Introduction
 
-Hi everyone, you can call me Yuki or nagara I stand alone programmer / web developper from indonesia, and here my personal website [naagaraa.co.id](http://naagaraa.herokuapp.com/). and also I have youtube channel [miyuki nagara](https://www.youtube.com/c/miyukinagara). I'am creator at [metode-skripshit.co.id](https://naagaraa.github.io/documentation-metode-skripsi/) and [mini-mvc-php.co.id](https://nagara.gitbook.io/code-zero-project/) write in php. currenly I don't care about language hahaha. just try and do it. Acctually in my daily I used Indonesia, but I'm understand english too. english important for reading and learn from people in internet hahaha
+Hi everyone, you can call me Yuki or nagara I stand alone programmer / web developper from indonesia, and here my personal website [naagaraa.co.id](http://naagaraa.herokuapp.com/). and also I have youtube channel [miyuki nagara](https://www.youtube.com/channel/UCYsZhw6Mlk23Q-nUPP9t1YA). I'am creator at [metode-skripshit.co.id](https://naagaraa.github.io/documentation-metode-skripsi/) and [mini-mvc-php.co.id](https://nagara.gitbook.io/code-zero-project/) write in php. currenly I don't care about language hahaha. just try and do it. Acctually in my daily I used Indonesia, but I'm understand english too. english important for reading and learn from people in internet hahaha
 
 ## Boiler Template
 
