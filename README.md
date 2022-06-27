@@ -41,12 +41,13 @@ Hi everyone, you can call me Yuki or nagara I stand alone programmer / web devel
 ## Boiler Template
 
 :warning:
-ouh for fast navigate link I put this bio. i'm create the boiler started pack for personal use
+ouh for fast navigate link I put this bio. i'm create the boiler started pack for personal use in maydaily
 
 - [vue 2 js setup directory](https://github.com/naagaraa/vuejs-boiler-template)
 - [react js setup directory](https://github.com/naagaraa/react-boiler-template)
 - [express js setup directory](https://github.com/naagaraa/expressjs-boiler-template)
-- [hackathon fullstack node js](https://github.com/sahat/hackathon-starter)
+- [hackathon fullstack node js](https://github.com/sahat/hackathon-starter) // this from hackathon fork
 - [flask-api-starter-project](https://github.com/naagaraa/RestAPI-Python-MVC-project)
-- [laravel starter pack]()
+- [laravel starter pack]() # not ready
+- [html-admin-template-starter]() # not ready
 
