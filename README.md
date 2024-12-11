@@ -1,53 +1,23 @@
-<!--
-**naagaraa/naagaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👻 Miyuki Nagara
 
-Here are some ideas to get you started:
+👩🏻‍🎓 Bachelor in Computer Engineering - Darma Persada University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌱 Area of Research
 
-<!-- <p align="left">
-    <img src="https://gpvc.arturio.dev/naagaraa" alt="profile views">
-</p> -->
+- **Wed Development**
 
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naagaraa&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+# 💻 Tech Stack:
 
--->
+![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=purple)
+![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel&logoColor=red)
 
-<!--
-"if make software it's easy, instant and full magic, try build by your self don't look someone for making"
--->
+# 📊 GitHub Stats:
 
-<!--
-try writing something :
--  I’m currently used Language PHP and learning PYTHON and Kotlin or Flutter for next FUTURE to mobile apps,
--  I’m currently learning Framewok Laravel, Codeigniter, Flask
--  I’m currently Used Frontend tech stack Boostrap, CSS
--  I’m currently learning english for improve my skill
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naagaraa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache=off)
 
-## Introduction
+### 🔝 Top Contributed Repo
 
-Hi everyone, you can call me Yuki or nagara I stand alone programmer / web developper from indonesia, and here my personal website [naagaraa.co.id](http://naagaraa.herokuapp.com/). and also I have youtube channel [miyuki nagara](https://www.youtube.com/channel/UCYsZhw6Mlk23Q-nUPP9t1YA). I'am creator at [metode-skripshit.co.id](https://naagaraa.github.io/web-metode-skripsi/) and [mini-mvc-php.co.id](https://nagara.gitbook.io/code-zero-project/) write in php. currenly I don't care about language hahaha. just try and do it. Acctually in my daily I used Indonesia, but I'm understand english too. english important for reading and learn from people in internet hahaha
+![](https://github-contributor-stats.vercel.app/api?username=naagaraa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Boiler Template
-
-:warning:
-ouh for fast navigate link I put this bio. i'm create the boiler started pack for personal use in maydaily
-
-- [vue 2 js setup directory](https://github.com/naagaraa/vuejs-boiler-template)
-- [react js setup directory](https://github.com/naagaraa/react-boiler-template)
-- [express js setup directory](https://github.com/naagaraa/expressjs-boiler-template)
-- [hackathon fullstack node js](https://github.com/sahat/hackathon-starter) # this from hackathon fork
-- [flask-api-starter-project](https://github.com/naagaraa/RestAPI-Python-MVC-project)
-- [laravel starter pack]() # not ready
-- [html-admin-template-starter]() # not ready
-
+---
