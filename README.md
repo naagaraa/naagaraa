@@ -1,10 +1,6 @@
 
 ---
 
-# ⚡ Cleaner Hybrid (Hacker + Aesthetic Balance)
-
-Kalau mau sedikit lebih “niat” tapi masih clean:
-
 ```markdown
 <h3 align="center">indie hacker • systems researcher • linux</h3>
 
