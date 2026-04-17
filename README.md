@@ -1,16 +1,34 @@
+
+---
+
+# ⚡ Cleaner Hybrid (Hacker + Aesthetic Balance)
+
+Kalau mau sedikit lebih “niat” tapi masih clean:
+
+```markdown
+<h3 align="center">indie hacker • systems researcher • linux</h3>
+
+<p align="center">
+  infrastructure • automation • experimentation
+</p>
+
+---
+
 ```bash
-> whoami
+$ whoami
 yourname
 
-> skills
-JavaScript Python Node React Linux
+$ echo $STACK
+proxmox linux bash python go php js
+docker nginx git ansible terraform
+systemd supervisor
 
-> currently_doing
-building.cool.projects()
+$ tree ~/lab
+.
+├── infra/
+├── automation/
+├── experiments/
+└── services/
 
-> interests
-["open-source", "automation", "minimalism"]
-
-> contact
-email: your@email.com
-github: https://github.com/yourusername
+$ uptime
+always building
