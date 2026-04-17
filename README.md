@@ -1,28 +1,41 @@
+
+
 ```bash
 > whoami
-yourname
+stephen hiragi / miyuki nagara
 
 > role
 indie_hacker && systems_researcher
 
 > focus
-["infrastructure", "linux", "servers", "automation", "distributed systems"]
+infrastructure     [█████████████░░] 80%
+linux              [██████████████░] 95%
+automation         [████████████░░░] 85%
+research           [███████████░░░░] 80%
 
 > stack
-proxmox  linux  bash  python  go  php  javascript
-docker  nginx  git  ansible  terraform
-systemd  supervisor
+proxmox            [██████████████░] 95%
+linux              [██████████████░] 90%
+bash               [██████████████░] 90%
+python             [████████████░░░] 85%
+golang             [██████████░░░░░] 70%
+php/laravel        [████████████░░░] 85%
+javascript         [███████████░░░░] 80%
 
-> currently
-- building: scalable_infra()
-- researching: system_behavior && performance
-- experimenting: homelab | automation | deployment
-
-> philosophy
-"understand the system, not just use it"
+docker             [███████████░░░░] 60%
+nginx              [██████████████░] 90%
+git                [███████████████] 100%
+ansible            [████████████░░░] 85%
+terraform          [███████████░░░░] 80%
+systemd            [████████████░░░] 85%
+supervisor         [███████████░░░░] 80%
 
 > uptime
 [███████████████] 99.99%
 
-> contact
-github: https://github.com/yourusername
+> status
+building... ██████████████░░░ 90%
+```
+
+## -----
+When I am not working I am usually building Open Source packages, writing tutorials at stories at [Medium](https://medium.com/@naagaraa), or on my [YouTube channel](https://www.youtube.com/@miyukinagara).
