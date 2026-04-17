@@ -1,30 +1,28 @@
-
----
-
-```markdown
-<h3 align="center">indie hacker • systems researcher • linux</h3>
-
-<p align="center">
-  infrastructure • automation • experimentation
-</p>
-
----
-
 ```bash
-$ whoami
+> whoami
 yourname
 
-$ echo $STACK
-proxmox linux bash python go php js
-docker nginx git ansible terraform
-systemd supervisor
+> role
+indie_hacker && systems_researcher
 
-$ tree ~/lab
-.
-├── infra/
-├── automation/
-├── experiments/
-└── services/
+> focus
+["infrastructure", "linux", "servers", "automation", "distributed systems"]
 
-$ uptime
-always building
+> stack
+proxmox  linux  bash  python  go  php  javascript
+docker  nginx  git  ansible  terraform
+systemd  supervisor
+
+> currently
+- building: scalable_infra()
+- researching: system_behavior && performance
+- experimenting: homelab | automation | deployment
+
+> philosophy
+"understand the system, not just use it"
+
+> uptime
+[███████████████] 99.99%
+
+> contact
+github: https://github.com/yourusername
