@@ -5,7 +5,7 @@
 stephen hiragi / miyuki nagara
 
 > role
-indie_hacker && systems_researcher
+indie_hacker && systems_engineer
 
 > focus
 infrastructure     [█████████████░░] 80%
