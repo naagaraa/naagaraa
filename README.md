@@ -1,3 +1,4 @@
+```
 > whoami
 stephen hiragi / miyuki nagara
 
@@ -53,3 +54,4 @@ building scalable systems... ██████████████░░░
 medium   : medium.com/@naagaraa
 youtube  : youtube.com/@miyukinagara
 github   : github.com/naagaraa
+```
