@@ -1,6 +1,3 @@
-
-
-```bash
 > whoami
 stephen hiragi / miyuki nagara
 
@@ -30,12 +27,29 @@ terraform          [███████████░░░░] 80%
 systemd            [████████████░░░] 85%
 supervisor         [███████████░░░░] 80%
 
+> agent_tools
+opencode           [███████████████] 100%
+claude_code        [██████████████░] 95%
+antigravity        [█████████████░░] 90%
+rtk                [████████████░░░] 85%
+hermes             [████████████░░░] 85%
+vscode             [███████████████] 100%
+
+> interests
+open_source
+self_hosting
+automation
+platform_engineering
+internal_tools
+developer_experience
+
 > uptime
 [███████████████] 99.99%
 
 > status
-building... ██████████████░░░ 90%
-```
+building scalable systems... ██████████████░░░ 90%
 
-## -----
-When I am not working I am usually building Open Source packages, writing tutorials at stories at [Medium](https://medium.com/@naagaraa), or on my [YouTube channel](https://www.youtube.com/@miyukinagara).
+> links
+medium   : medium.com/@naagaraa
+youtube  : youtube.com/@miyukinagara
+github   : github.com/naagaraa
