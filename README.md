@@ -2,56 +2,36 @@
 > whoami
 stephen hiragi / miyuki nagara
 
-> role
-indie_hacker && systems_engineer
+┌─ ROLE & FOCUS ───────────────────────────┬── STACK ─────────────────────────────────┐
+│ role                                     │ proxmox            [██████████████░] 95% │
+│ indie_hacker && systems_engineer         │ linux              [██████████████░] 90% │
+│                                          │ bash               [██████████████░] 90% │
+│ focus                                    │ python             [████████████░░░] 85% │
+│ infrastructure     [█████████████░░] 80% │ golang             [██████████░░░░░] 70% │
+│ linux              [██████████████░] 95% │ php/laravel        [████████████░░░] 85% │
+│ automation         [████████████░░░] 85% │ javascript         [███████████░░░░] 80% │
+│ research           [███████████░░░░] 80% │                                          │
+└─────────────────────────────────────┴───────────────────────────────────────────────┘
 
-> focus
-infrastructure     [█████████████░░] 80%
-linux              [██████████████░] 95%
-automation         [████████████░░░] 85%
-research           [███████████░░░░] 80%
+┌─ INFRA & TOOLS ──────────────────────────┬──── INTERESTS ───────────────────────────┐
+│ docker             [███████████░░░░] 60% │ open_source                              │
+│ nginx              [██████████████░] 90% │ self_hosting                             │
+│ git                [███████████████]100% │ automation                               │
+│ ansible            [████████████░░░] 85% │ platform_engineering                     │
+│ terraform          [███████████░░░░] 80% │ internal_tools                           │
+│ systemd            [████████████░░░] 85% │ developer_experience                     │
+│ supervisor         [███████████░░░░] 80% │                                          │
+└──────────────────────────────────────────┴──────────────────────────────────────────┘
 
-> stack
-proxmox            [██████████████░] 95%
-linux              [██████████████░] 90%
-bash               [██████████████░] 90%
-python             [████████████░░░] 85%
-golang             [██████████░░░░░] 70%
-php/laravel        [████████████░░░] 85%
-javascript         [███████████░░░░] 80%
-
-docker             [███████████░░░░] 60%
-nginx              [██████████████░] 90%
-git                [███████████████] 100%
-ansible            [████████████░░░] 85%
-terraform          [███████████░░░░] 80%
-systemd            [████████████░░░] 85%
-supervisor         [███████████░░░░] 80%
-
-> agent_tools
-opencode           [███████████████] 100%
-claude_code        [██████████████░] 95%
-antigravity        [█████████████░░] 90%
-rtk                [████████████░░░] 85%
-hermes             [████████████░░░] 85%
-vscode             [███████████████] 100%
-
-> interests
-open_source
-self_hosting
-automation
-platform_engineering
-internal_tools
-developer_experience
-
-> uptime
-[███████████████] 99.99%
+┌─ AGENT TOOLS ────────────────────────────┬─── LINKS ────────────────────────────────┐
+│ opencode           [███████████████]100% │ medium   : medium.com/@naagaraa          │
+│ claude_code        [██████████████░] 95% │ youtube  : youtube.com/@miyukinagara     │
+│ antigravity        [█████████████░░] 90% │ github   : github.com/naagaraa           │
+│ rtk                [████████████░░░] 85% │                                          │
+│ hermes             [████████████░░░] 85% │ uptime   [███████████████] 99.99%        │
+│ vscode             [███████████████]100% │                                          │
+└──────────────────────────────────────────┴──────────────────────────────────────────┘
 
 > status
 building scalable systems... ██████████████░░░ 90%
-
-> links
-medium   : medium.com/@naagaraa
-youtube  : youtube.com/@miyukinagara
-github   : github.com/naagaraa
 ```
